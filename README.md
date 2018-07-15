@@ -9,7 +9,7 @@ Consolidated list of various articles about coding
   - [Authentication Using Twitter In ASP.NET Core 2.0](https://medium.freecodecamp.org/authentication-using-twitter-in-asp-net-core-2-0-c7e02be30678)
   - [Authentication Using Google In ASP.NET Core 2.0](https://medium.freecodecamp.org/authentication-using-google-in-asp-net-core-2-0-5ec32c803e23)
 - Node.js
-  [Understanding Node.js Event-Driven Architecture](https://medium.freecodecamp.org/understanding-node-js-event-driven-architecture-223292fcbc2d)
+  - [Understanding Node.js Event-Driven Architecture](https://medium.freecodecamp.org/understanding-node-js-event-driven-architecture-223292fcbc2d)
 - Split User Stories/Vertical Slicing
   - [Horizontal and Vertical User Stories - Slicing the Cake](http://www.deltamatrix.com/horizontal-and-vertical-user-stories-slicing-the-cake/)
   - [Vertically Slicing: Taking A Bite Of The Hamburger](https://apple-brook.com/vertically-slicing-taking-a-bite-of-the-hamburger/)
