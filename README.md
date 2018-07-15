@@ -22,3 +22,7 @@ Consolidated list of various articles about coding
   - [How to slice stories](https://www.agileconference.org/wp-content/uploads/2014/10/ABC-How-to-Slice-Stories-Matt-Roadnight.pdf) 
   - [Db workshop - art of story splitting and writting](https://www.slideshare.net/pvandulm/db-workshop-art-of-story-splitting-and-writting)
   - [Delivering Value in Smaller Increments: Different Ways to Thin Slice Your Minimum Viable Product](http://agilebydesign.com/delivering-value-in-smaller-increments-different-ways-to-thin-slice-your-minimum-viable-product/)
+- Youtube Channels
+  - TechLead
+  - Joma Tech
+  - Google Ventures
